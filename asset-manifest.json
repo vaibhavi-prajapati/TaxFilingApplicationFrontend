@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/TaxFilingApplicationFrontend/static/js/main.617c1908.chunk.js",
+    "main.js.map": "/TaxFilingApplicationFrontend/static/js/main.617c1908.chunk.js.map",
+    "runtime-main.js": "/TaxFilingApplicationFrontend/static/js/runtime-main.4ba8f92f.js",
+    "runtime-main.js.map": "/TaxFilingApplicationFrontend/static/js/runtime-main.4ba8f92f.js.map",
+    "static/css/2.1f208231.chunk.css": "/TaxFilingApplicationFrontend/static/css/2.1f208231.chunk.css",
+    "static/js/2.69f69a03.chunk.js": "/TaxFilingApplicationFrontend/static/js/2.69f69a03.chunk.js",
+    "static/js/2.69f69a03.chunk.js.map": "/TaxFilingApplicationFrontend/static/js/2.69f69a03.chunk.js.map",
+    "index.html": "/TaxFilingApplicationFrontend/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/TaxFilingApplicationFrontend/static/css/2.1f208231.chunk.css.map",
+    "static/js/2.69f69a03.chunk.js.LICENSE.txt": "/TaxFilingApplicationFrontend/static/js/2.69f69a03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ba8f92f.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.69f69a03.chunk.js",
+    "static/js/main.617c1908.chunk.js"
+  ]
+}
